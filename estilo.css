@@ -1,0 +1,84 @@
+div#interface{
+    background-color: #ffffff;
+    width: 820px;
+    margin: -20px auto 0px auto;
+    padding: 10px;    
+}
+
+body{
+    background-image: url(_imagens/starwars.jpg);
+}
+
+section{
+    text-align: center;
+    text-indent: 50px;
+    color:black;
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
+}
+
+a{
+    color: black;
+}
+
+p{
+    margin: 100px 10px 10px 10px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+h5{
+    font-size: 40px;
+}
+
+a#github:hover{
+    color:deeppink;
+    transition:color 0.5s;
+}
+
+a#facebook:hover{
+    color: #3b5998;
+    transition:color 0.5s ;
+}
+
+a#linkedin:hover{
+    color: #3b5998;
+    transition:color 0.5s;
+}
+
+header#cabecalho{
+    border-bottom: 2px #000000 solid;  
+    height: 200px;
+    text-align: center;
+    color: black;
+    font-family: 'Amatic SC';
+    font-style: normal;
+    font-size: 130px;
+}
+
+img{
+    position: relative;
+    float:none;
+    margin-right: 10px;
+    margin-left: 240px;
+}
+
+footer{
+    margin-left: 280px;
+    margin-top: 200px;
+
+}
+
+
+
+section img{
+    position: relative;
+    float: left;
+    padding: 5px;
+    margin: 10px 10px 10px;
+}
+
+/*Formacao Academica*/
+
